@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sw-shar
 - 👀 I’m interested in NLP
-- 🌱 I’m currently learning MISIS - data science
+- 🌱 I’m currently learning High School of Economics - data science
 - 💞️ I’m looking to collaborate with natural language processing companies
 - 📫 How to reach me reklama.zap@ya.ru
 
